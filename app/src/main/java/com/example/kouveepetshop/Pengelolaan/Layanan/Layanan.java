@@ -35,7 +35,7 @@ public class Layanan extends AppCompatActivity {
     private ProgressDialog pd;
     private String ip = MainActivity.getIp();
     //testgithub
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
