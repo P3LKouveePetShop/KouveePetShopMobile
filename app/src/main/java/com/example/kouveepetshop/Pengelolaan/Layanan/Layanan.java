@@ -34,7 +34,7 @@ public class Layanan extends AppCompatActivity {
     private ArrayList<LayananDAO> mItems;
     private ProgressDialog pd;
     private String ip = MainActivity.getIp();
-    //testgithub
+    //testgithubasdasd
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
